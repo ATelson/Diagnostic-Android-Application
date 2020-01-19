@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Diagnostic Android Application</string>
+    <string name="action_settings">Settings</string>
+</resources>
